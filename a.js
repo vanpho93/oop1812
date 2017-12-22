@@ -6,6 +6,7 @@ const teo = {
         console.log(`Xin chao toi la ${this.name}, toi ${this.age} tuoi`);
     }
 };
+
 teo.sayHello();
 console.log(teo);
 // teo = {};
