@@ -1,0 +1,9 @@
+console.log(123);
+
+class Person {
+    constructor(name) {
+        this.name = name;
+    }
+}
+
+module.exports = Person;
